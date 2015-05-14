@@ -1,0 +1,13 @@
+<ion-view view-title="Filter Parks And Open Spaces" cache-view="false">
+  <ion-content>
+  <div ng-controller="ViewDetailCtrl" class="list">
+  <label class="item item-input item-select">
+    <select id="select" ng-model="activeFilters" ng-options="category.name for category in categories track by category.name" ng-change="updateFilter()" ng-multiple="true" multiple>
+  </select>
+    <div class="input-label">
+ Select Amenities
+ </div>
+  </label>
+  </div>
+  </ion-content>
+</ion-view>

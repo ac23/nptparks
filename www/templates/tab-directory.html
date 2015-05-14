@@ -1,0 +1,14 @@
+<ion-view view-title="Nearby Parks And Open Spaces" cache-view="false">
+  <ion-content>
+  <div ng-controller="MapCtrl" id="wrapper">
+    <ion-list>
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="park in parks | orderBy:'distance'" type="item-text-wrap" href="#/tab/view?type={{park.type}}&viewID={{park.id}}">
+        <img ng-src="img/{{park.type}}Icon.png">
+        <h2>{{park.name}}</h2>
+        <p><b>{{park.distance}} miles away</b><br/>{{park.categories}}</p>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
+    </ion-list>
+    </div>
+  </ion-content>
+</ion-view>

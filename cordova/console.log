@@ -1,0 +1,247 @@
+2015-03-13 14:30:50.365 myApp[91499:206117] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/79D3685D-88B4-4C26-A674-DC198955DC91/Library/Cookies/Cookies.binarycookies
+2015-03-13 14:30:50.416 myApp[91499:206117] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 14:30:50.417 myApp[91499:206117] Multi-tasking -> Device: YES, App: YES
+2015-03-13 14:30:50.442 myApp[91499:206117] Unlimited access to network resources
+2015-03-13 14:30:50.758 myApp[91499:206117] [CDVTimer][keyboard] 0.059009ms
+2015-03-13 14:30:50.874 myApp[91499:206117] [CDVTimer][splashscreen] 116.159976ms
+2015-03-13 14:30:50.874 myApp[91499:206117] [CDVTimer][TotalPluginStartup] 116.506994ms
+2015-03-13 14:30:50.981 myApp[91499:206117] Resetting plugins due to page load.
+2015-03-13 14:30:51.338 myApp[91499:206117] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/926FD70B-EEF2-4490-B46C-C007E3773B71/myApp.app/www/index.html#/tab/dash
+2015-03-13 14:30:51.535 myApp[91499:206117] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 14:31:27.512 myApp[91499:206432] Terminating since there is no system app.
+2015-03-13 14:42:55.763 myApp[95082:215012] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/045ACA35-1102-4AB7-B744-727173DD5D75/Library/Cookies/Cookies.binarycookies
+2015-03-13 14:42:55.822 myApp[95082:215012] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 14:42:55.823 myApp[95082:215012] Multi-tasking -> Device: YES, App: YES
+2015-03-13 14:42:55.844 myApp[95082:215012] Unlimited access to network resources
+2015-03-13 14:42:56.280 myApp[95082:215012] [CDVTimer][keyboard] 0.109017ms
+2015-03-13 14:42:56.415 myApp[95082:215012] [CDVTimer][splashscreen] 134.526968ms
+2015-03-13 14:42:56.415 myApp[95082:215012] [CDVTimer][TotalPluginStartup] 135.087967ms
+2015-03-13 14:42:56.512 myApp[95082:215012] Resetting plugins due to page load.
+2015-03-13 14:42:56.979 myApp[95082:215012] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/D2DF65A5-2312-440D-989A-F90B58B33922/myApp.app/www/index.html#/tab/dash
+2015-03-13 14:42:57.281 myApp[95082:215012] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 14:42:57.657 myApp[95082:215012] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 14:43:25.851 myApp[95082:215595] Terminating since there is no system app.
+2015-03-13 14:47:49.020 myApp[96714:218828] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/4865C761-2D00-4A79-A5BE-408EFE342008/Library/Cookies/Cookies.binarycookies
+2015-03-13 14:47:49.075 myApp[96714:218828] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 14:47:49.075 myApp[96714:218828] Multi-tasking -> Device: YES, App: YES
+2015-03-13 14:47:49.092 myApp[96714:218828] Unlimited access to network resources
+2015-03-13 14:47:49.493 myApp[96714:218828] [CDVTimer][keyboard] 0.165999ms
+2015-03-13 14:47:49.584 myApp[96714:218828] [CDVTimer][splashscreen] 90.076029ms
+2015-03-13 14:47:49.584 myApp[96714:218828] [CDVTimer][TotalPluginStartup] 90.577960ms
+2015-03-13 14:47:49.681 myApp[96714:218828] Resetting plugins due to page load.
+2015-03-13 14:47:50.151 myApp[96714:218828] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/5B235F3B-9F66-4821-AF73-CC11C54FFA34/myApp.app/www/index.html#/tab/dash
+2015-03-13 14:47:50.424 myApp[96714:218828] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 14:47:50.562 myApp[96714:218828] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 14:53:05.180 myApp[98465:223363] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/EE1A882A-5E98-437D-BCE8-9B6B93145313/Library/Cookies/Cookies.binarycookies
+2015-03-13 14:53:05.241 myApp[98465:223363] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 14:53:05.242 myApp[98465:223363] Multi-tasking -> Device: YES, App: YES
+2015-03-13 14:53:05.261 myApp[98465:223363] Unlimited access to network resources
+2015-03-13 14:53:05.634 myApp[98465:223363] [CDVTimer][keyboard] 0.065982ms
+2015-03-13 14:53:05.722 myApp[98465:223363] [CDVTimer][splashscreen] 88.602006ms
+2015-03-13 14:53:05.722 myApp[98465:223363] [CDVTimer][TotalPluginStartup] 88.952005ms
+2015-03-13 14:53:05.815 myApp[98465:223363] Resetting plugins due to page load.
+2015-03-13 14:53:06.272 myApp[98465:223363] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/14C7F39E-72B8-4C1F-89D4-7C8F3DC33EEE/myApp.app/www/index.html#/tab/dash
+2015-03-13 14:53:06.554 myApp[98465:223363] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 14:55:21.430 myApp[99382:225808] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/1F04CD41-14C4-41CE-9CE2-2128486773B0/Library/Cookies/Cookies.binarycookies
+2015-03-13 14:55:21.486 myApp[99382:225808] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 14:55:21.487 myApp[99382:225808] Multi-tasking -> Device: YES, App: YES
+2015-03-13 14:55:21.508 myApp[99382:225808] Unlimited access to network resources
+2015-03-13 14:55:21.977 myApp[99382:225808] [CDVTimer][keyboard] 0.059962ms
+2015-03-13 14:55:22.081 myApp[99382:225808] [CDVTimer][splashscreen] 103.648007ms
+2015-03-13 14:55:22.081 myApp[99382:225808] [CDVTimer][TotalPluginStartup] 104.008973ms
+2015-03-13 14:55:22.168 myApp[99382:225808] Resetting plugins due to page load.
+2015-03-13 14:55:22.651 myApp[99382:225808] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/2C866CBE-C000-42A9-8206-3EECB3E1D1E7/myApp.app/www/index.html#/tab/dash
+2015-03-13 14:55:22.948 myApp[99382:225808] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 14:55:23.208 myApp[99382:225808] THREAD WARNING: ['GoogleMaps'] took '141.544189' ms. Plugin should use a background thread.
+2015-03-13 14:55:23.228 myApp[99382:225808] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 15:02:57.585 myApp[2152:231553] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/6416610F-7DA4-4861-87B8-32E9E752F528/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:02:57.649 myApp[2152:231553] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:02:57.650 myApp[2152:231553] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:02:57.668 myApp[2152:231553] Unlimited access to network resources
+2015-03-13 15:02:58.020 myApp[2152:231553] [CDVTimer][keyboard] 0.066042ms
+2015-03-13 15:02:58.119 myApp[2152:231553] [CDVTimer][splashscreen] 99.164009ms
+2015-03-13 15:02:58.119 myApp[2152:231553] [CDVTimer][TotalPluginStartup] 99.561989ms
+2015-03-13 15:02:58.199 myApp[2152:231553] Resetting plugins due to page load.
+2015-03-13 15:02:58.676 myApp[2152:231553] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/ACCCC97F-AD2F-4A87-A28C-53FCDCA90019/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:02:58.970 myApp[2152:231553] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:02:59.229 myApp[2152:231553] THREAD WARNING: ['GoogleMaps'] took '148.135254' ms. Plugin should use a background thread.
+2015-03-13 15:02:59.238 myApp[2152:231553] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 15:04:39.669 myApp[2152:232862] Terminating since there is no system app.
+2015-03-13 15:04:56.615 myApp[3004:233746] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/AE822C16-BEF2-4709-BCB5-93004083C300/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:04:56.659 myApp[3004:233746] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:04:56.660 myApp[3004:233746] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:04:56.666 myApp[3004:233746] Unlimited access to network resources
+2015-03-13 15:04:56.759 myApp[3004:233746] [CDVTimer][keyboard] 0.063002ms
+2015-03-13 15:04:56.795 myApp[3004:233746] [CDVTimer][splashscreen] 35.109997ms
+2015-03-13 15:04:56.795 myApp[3004:233746] [CDVTimer][TotalPluginStartup] 35.506964ms
+2015-03-13 15:04:56.851 myApp[3004:233746] Resetting plugins due to page load.
+2015-03-13 15:04:57.069 myApp[3004:233746] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/6B4B1D75-8593-4ACD-92A7-37661FF842E4/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:04:57.330 myApp[3004:233746] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:23:53.619 myApp[3004:248352] Terminating since there is no system app.
+2015-03-13 15:24:35.129 myApp[8676:249683] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/80BC8A8C-5EEC-4B45-8433-983D5D5E4E65/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:24:35.181 myApp[8676:249683] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:24:35.182 myApp[8676:249683] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:24:35.199 myApp[8676:249683] Unlimited access to network resources
+2015-03-13 15:24:35.586 myApp[8676:249683] [CDVTimer][keyboard] 0.063002ms
+2015-03-13 15:24:35.689 myApp[8676:249683] [CDVTimer][splashscreen] 102.765024ms
+2015-03-13 15:24:35.689 myApp[8676:249683] [CDVTimer][TotalPluginStartup] 103.157043ms
+2015-03-13 15:24:35.824 myApp[8676:249683] Resetting plugins due to page load.
+2015-03-13 15:24:36.271 myApp[8676:249683] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/EF2A1F81-BCD6-4E0B-8E80-8F04FF7EEA56/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:24:36.584 myApp[8676:249683] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:24:49.876 myApp[8676:250015] Terminating since there is no system app.
+2015-03-13 15:25:58.899 myApp[9368:251496] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/D7F64552-FF57-43BF-A9F4-F5409F31C3D6/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:25:58.953 myApp[9368:251496] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:25:58.954 myApp[9368:251496] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:25:58.969 myApp[9368:251496] Unlimited access to network resources
+2015-03-13 15:25:59.338 myApp[9368:251496] [CDVTimer][keyboard] 0.069976ms
+2015-03-13 15:25:59.431 myApp[9368:251496] [CDVTimer][splashscreen] 93.132973ms
+2015-03-13 15:25:59.431 myApp[9368:251496] [CDVTimer][TotalPluginStartup] 93.542993ms
+2015-03-13 15:25:59.519 myApp[9368:251496] Resetting plugins due to page load.
+2015-03-13 15:26:00.190 myApp[9368:251496] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/437E8B1E-8762-4F44-ABAC-4C72028869CE/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:27:15.446 myApp[10013:253377] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/F7AB6DBE-D983-4323-A06E-5852E2F595E7/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:27:15.495 myApp[10013:253377] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:27:15.496 myApp[10013:253377] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:27:15.512 myApp[10013:253377] Unlimited access to network resources
+2015-03-13 15:27:15.890 myApp[10013:253377] [CDVTimer][keyboard] 0.059009ms
+2015-03-13 15:27:15.980 myApp[10013:253377] [CDVTimer][splashscreen] 89.677036ms
+2015-03-13 15:27:15.980 myApp[10013:253377] [CDVTimer][TotalPluginStartup] 90.035021ms
+2015-03-13 15:27:16.058 myApp[10013:253377] Resetting plugins due to page load.
+2015-03-13 15:27:16.488 myApp[10013:253377] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/EB9BB62F-F358-426E-A472-2DBFE51DE96D/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:27:16.726 myApp[10013:253377] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:27:16.883 myApp[10013:253377] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 15:27:48.777 myApp[10013:253906] Terminating since there is no system app.
+2015-03-13 15:32:43.231 myApp[12077:259925] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/9362278B-C16F-4091-AA78-D92D61C7F04D/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:32:43.280 myApp[12077:259925] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:32:43.281 myApp[12077:259925] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:32:43.301 myApp[12077:259925] Unlimited access to network resources
+2015-03-13 15:32:43.776 myApp[12077:259925] [CDVTimer][keyboard] 0.071049ms
+2015-03-13 15:32:43.888 myApp[12077:259925] [CDVTimer][splashscreen] 112.118006ms
+2015-03-13 15:32:43.888 myApp[12077:259925] [CDVTimer][TotalPluginStartup] 112.520993ms
+2015-03-13 15:32:43.975 myApp[12077:259925] Resetting plugins due to page load.
+2015-03-13 15:32:44.448 myApp[12077:259925] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/3F022798-A33A-4E92-B040-B0E1669A4EA5/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:32:44.682 myApp[12077:259925] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:43:43.326 myApp[15597:267328] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/83E7BF03-57D6-43C9-B051-407A5A67746C/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:43:43.403 myApp[15597:267328] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:43:43.403 myApp[15597:267328] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:43:43.409 myApp[15597:267328] Unlimited access to network resources
+2015-03-13 15:43:43.498 myApp[15597:267328] [CDVTimer][keyboard] 0.081003ms
+2015-03-13 15:43:43.520 myApp[15597:267328] [CDVTimer][splashscreen] 22.385001ms
+2015-03-13 15:43:43.520 myApp[15597:267328] [CDVTimer][TotalPluginStartup] 22.790015ms
+2015-03-13 15:43:43.593 myApp[15597:267328] Resetting plugins due to page load.
+2015-03-13 15:43:43.792 myApp[15597:267328] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/CBD803AE-C7DE-431A-BFAF-47F6BC7CB09C/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:43:43.991 myApp[15597:267328] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:46:16.746 myApp[16558:269459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/2AF84567-B9BB-474F-A49D-A04BAD4CD322/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:46:16.807 myApp[16558:269459] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:46:16.808 myApp[16558:269459] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:46:16.813 myApp[16558:269459] Unlimited access to network resources
+2015-03-13 15:46:16.901 myApp[16558:269459] [CDVTimer][keyboard] 0.055969ms
+2015-03-13 15:46:16.936 myApp[16558:269459] [CDVTimer][splashscreen] 34.847021ms
+2015-03-13 15:46:16.936 myApp[16558:269459] [CDVTimer][TotalPluginStartup] 35.323977ms
+2015-03-13 15:46:17.045 myApp[16558:269459] Resetting plugins due to page load.
+2015-03-13 15:46:17.270 myApp[16558:269459] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/7B7F0EAE-E61C-4EF4-B1F4-BABF3206D1A9/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:46:17.474 myApp[16558:269459] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:49:39.572 myApp[17739:272016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/B12C9A29-825A-49D8-8FA6-5451ED7592F6/Library/Cookies/Cookies.binarycookies
+2015-03-13 15:49:39.631 myApp[17739:272016] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 15:49:39.632 myApp[17739:272016] Multi-tasking -> Device: YES, App: YES
+2015-03-13 15:49:39.637 myApp[17739:272016] Unlimited access to network resources
+2015-03-13 15:49:39.723 myApp[17739:272016] [CDVTimer][keyboard] 0.059009ms
+2015-03-13 15:49:39.741 myApp[17739:272016] [CDVTimer][splashscreen] 18.528998ms
+2015-03-13 15:49:39.742 myApp[17739:272016] [CDVTimer][TotalPluginStartup] 18.891990ms
+2015-03-13 15:49:39.800 myApp[17739:272016] Resetting plugins due to page load.
+2015-03-13 15:49:40.000 myApp[17739:272016] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/BDD4CD57-6259-4F43-AE27-6C92D701D6F2/myApp.app/www/index.html#/tab/dash
+2015-03-13 15:49:40.225 myApp[17739:272016] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 15:49:40.430 myApp[17739:272016] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 15:57:43.515 myApp[17739:277689] Terminating since there is no system app.
+2015-03-13 16:00:28.300 myApp[21622:281032] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/EB4E19C0-39BB-4332-92D7-0CAA11971489/Library/Cookies/Cookies.binarycookies
+2015-03-13 16:00:28.346 myApp[21622:281032] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 16:00:28.346 myApp[21622:281032] Multi-tasking -> Device: YES, App: YES
+2015-03-13 16:00:28.368 myApp[21622:281032] Unlimited access to network resources
+2015-03-13 16:00:28.738 myApp[21622:281032] [CDVTimer][keyboard] 0.065982ms
+2015-03-13 16:00:28.864 myApp[21622:281032] [CDVTimer][splashscreen] 126.129985ms
+2015-03-13 16:00:28.864 myApp[21622:281032] [CDVTimer][TotalPluginStartup] 126.494944ms
+2015-03-13 16:00:28.945 myApp[21622:281032] Resetting plugins due to page load.
+2015-03-13 16:00:29.234 myApp[21622:281032] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/F904E343-9BE9-453A-8A2E-C64CEFAEC18C/myApp.app/www/index.html#/tab/dash
+2015-03-13 16:00:29.446 myApp[21622:281032] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 16:00:29.613 myApp[21622:281032] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 16:37:33.617 myApp[21622:303234] Terminating since there is no system app.
+2015-03-13 16:39:04.314 myApp[32712:308189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/B3050462-A8BD-41B3-A9D8-BCA7D6029656/Library/Cookies/Cookies.binarycookies
+2015-03-13 16:39:04.385 myApp[32712:308189] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 16:39:04.386 myApp[32712:308189] Multi-tasking -> Device: YES, App: YES
+2015-03-13 16:39:04.409 myApp[32712:308189] Unlimited access to network resources
+2015-03-13 16:39:04.753 myApp[32712:308189] [CDVTimer][keyboard] 0.065982ms
+2015-03-13 16:39:04.852 myApp[32712:308189] [CDVTimer][splashscreen] 98.159015ms
+2015-03-13 16:39:04.852 myApp[32712:308189] [CDVTimer][TotalPluginStartup] 98.549008ms
+2015-03-13 16:39:04.919 myApp[32712:308189] Resetting plugins due to page load.
+2015-03-13 16:39:05.215 myApp[32712:308189] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/4C2421C2-B600-4076-B987-25FBA24E22B0/myApp.app/www/index.html#/tab/dash
+2015-03-13 16:39:05.421 myApp[32712:308189] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 16:39:05.571 myApp[32712:308189] Google Maps SDK for iOS version: 1.9.14591.0
+2015-03-13 16:39:17.835 myApp[32712:308227] Terminating since there is no system app.
+2015-03-13 16:40:11.454 myApp[33332:310242] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Data/Application/6765215A-C219-4D9B-A07A-7FF53B680E5B/Library/Cookies/Cookies.binarycookies
+2015-03-13 16:40:11.525 myApp[33332:310242] Apache Cordova native platform version 3.6.3 is starting.
+2015-03-13 16:40:11.526 myApp[33332:310242] Multi-tasking -> Device: YES, App: YES
+2015-03-13 16:40:11.532 myApp[33332:310242] Unlimited access to network resources
+2015-03-13 16:40:11.629 myApp[33332:310242] [CDVTimer][keyboard] 0.056028ms
+2015-03-13 16:40:11.643 myApp[33332:310242] [CDVTimer][splashscreen] 13.199031ms
+2015-03-13 16:40:11.643 myApp[33332:310242] [CDVTimer][TotalPluginStartup] 13.548017ms
+2015-03-13 16:40:11.691 myApp[33332:310242] Resetting plugins due to page load.
+2015-03-13 16:40:11.979 myApp[33332:310242] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/B03809D9-4A49-413A-8CF7-C844EBCF0C87/data/Containers/Bundle/Application/C209B0CD-5DEB-4DB9-AAD2-D2047E1AE82B/myApp.app/www/index.html#/tab/dash
+2015-03-13 16:40:12.257 myApp[33332:310242] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-03-13 16:40:12.389 myApp[33332:310242] Google Maps SDK for iOS version: 1.9.14591.0
+2015-05-14 08:49:32.258 Newport Park Explorer[11462:46268] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Library/Cookies/Cookies.binarycookies
+2015-05-14 08:49:32.339 Newport Park Explorer[11462:46268] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-14 08:49:32.339 Newport Park Explorer[11462:46268] Multi-tasking -> Device: YES, App: YES
+2015-05-14 08:49:32.346 Newport Park Explorer[11462:46268] Unlimited access to network resources
+2015-05-14 08:49:32.548 Newport Park Explorer[11462:46268] [CDVTimer][keyboard] 0.069022ms
+2015-05-14 08:49:32.649 Newport Park Explorer[11462:46268] [CDVTimer][splashscreen] 100.847006ms
+2015-05-14 08:49:32.649 Newport Park Explorer[11462:46268] [CDVTimer][TotalPluginStartup] 101.267040ms
+2015-05-14 08:49:32.712 Newport Park Explorer[11462:46268] Resetting plugins due to page load.
+2015-05-14 08:49:33.158 Newport Park Explorer[11462:46268] Finished load of: file:///Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport%20Park%20Explorer.app/www/index.html#/tab/dash
+2015-05-14 08:49:33.225 Newport Park Explorer[11462:46268] This app uses phonegap-googlemaps-plugin version 1.2.4
+2015-05-14 08:49:33.410 Newport Park Explorer[11462:46268] phonegap-googlemaps-plugin version 1.2.5 is available.
+2015-05-14 08:49:33.426 Newport Park Explorer[11462:46268] [sqlDB] Could not copy file from /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport Park Explorer.app/www/parks.db to /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Documents/parks.db. Error = Error Domain=NSCocoaErrorDomain Code=516 "The operation couldn’t be completed. (Cocoa error 516.)" UserInfo=0x7a605b70 {NSSourceFilePathErrorKey=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport Park Explorer.app/www/parks.db, NSUserStringVariant=(
+    Copy
+), NSFilePath=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport Park Explorer.app/www/parks.db, NSDestinationFilePath=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Documents/parks.db, NSUnderlyingError=0x7ae92190 "The operation couldn’t be completed. File exists"}
+2015-05-14 08:49:33.438 Newport Park Explorer[11462:46268] THREAD WARNING: ['sqlDB'] took '26.180176' ms. Plugin should use a background thread.
+2015-05-14 08:49:33.438 Newport Park Explorer[11462:46268] ERROR: There was an error copying the database: {"message":"Error Domain=NSCocoaErrorDomain Code=516 \"The operation couldn’t be completed. (Cocoa error 516.)\" UserInfo=0x7a605b70 {NSSourceFilePathErrorKey=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport Park Explorer.app/www/parks.db, NSUserStringVariant=(\n    Copy\n), NSFilePath=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Bundle/Application/B0A235AE-9770-4775-83B5-29CDD6F51E25/Newport Park Explorer.app/www/parks.db, NSDestinationFilePath=/Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Documents/parks.db, NSUnderlyingError=0x7ae92190 \"The operation couldn’t be completed. File exists\"}","code":516}
+2015-05-14 08:49:33.439 Newport Park Explorer[11462:46268] Detected docs path: /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Documents
+2015-05-14 08:49:33.439 Newport Park Explorer[11462:46268] Detected Library path: /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Library
+2015-05-14 08:49:33.439 Newport Park Explorer[11462:46268] no cloud sync at path: /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Library/LocalDatabase
+2015-05-14 08:49:33.439 Newport Park Explorer[11462:46268] open full db path: /Users/aj/Library/Developer/CoreSimulator/Devices/F3126EA9-2B63-4CDE-B2C6-3770CD3CDF3B/data/Containers/Data/Application/A5D404E5-6D6F-4666-A25F-99E442D825FF/Documents/parks.db
+2015-05-14 08:49:33.440 Newport Park Explorer[11462:46268] Good news: SQLite is thread safe!
+2015-05-14 08:49:33.440 Newport Park Explorer[11462:46268] DB opened: parks.db
+2015-05-14 08:49:33.571 Newport Park Explorer[11462:46268] Google Maps SDK for iOS version: 1.9.14591.0
+2015-05-14 08:49:33.602 Newport Park Explorer[11462:46268] ClientParametersRequest failed, 3 attempts remaining (0 vs 6). Error Domain=com.google.HTTPStatus Code=400 "The operation couldn’t be completed. (com.google.HTTPStatus error 400.)" UserInfo=0x7a8ee210 {data=<CFData 0x7ae78a10 [0xb179a8]>{length = 145, capacity = 256, bytes = 0x3c48544d4c3e0a3c484541443e0a3c54 ... 3c2f48544d4c3e0a}}
+2015-05-14 08:49:33.640 Newport Park Explorer[11462:46268] ClientParametersRequest failed, 2 attempts remaining (0 vs 6). Error Domain=com.google.HTTPStatus Code=400 "The operation couldn’t be completed. (com.google.HTTPStatus error 400.)" UserInfo=0x7a6e9e70 {data=<CFData 0x7ae89ee0 [0xb179a8]>{length = 145, capacity = 256, bytes = 0x3c48544d4c3e0a3c484541443e0a3c54 ... 3c2f48544d4c3e0a}}
+2015-05-14 08:49:34.102 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:49:34.147 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:49:37.877 Newport Park Explorer[11462:46268] ClientParametersRequest failed, 1 attempts remaining (0 vs 6). Error Domain=com.google.HTTPStatus Code=400 "The operation couldn’t be completed. (com.google.HTTPStatus error 400.)" UserInfo=0x7a62dc00 {data=<CFData 0x7a801310 [0xb179a8]>{length = 145, capacity = 256, bytes = 0x3c48544d4c3e0a3c484541443e0a3c54 ... 3c2f48544d4c3e0a}}
+2015-05-14 08:49:46.395 Newport Park Explorer[11462:46268] ClientParametersRequest failed, 0 attempts remaining (0 vs 6). Error Domain=com.google.HTTPStatus Code=400 "The operation couldn’t be completed. (com.google.HTTPStatus error 400.)" UserInfo=0x7a602b80 {data=<CFData 0x7a62dc00 [0xb179a8]>{length = 145, capacity = 256, bytes = 0x3c48544d4c3e0a3c484541443e0a3c54 ... 3c2f48544d4c3e0a}}
+2015-05-14 08:49:46.396 Newport Park Explorer[11462:46268] Google Maps SDK for iOS cannot connect or validate APIKey: Error Domain=com.google.HTTPStatus Code=400 "The operation couldn’t be completed. (com.google.HTTPStatus error 400.)" UserInfo=0x7a602b80 {data=<CFData 0x7a62dc00 [0xb179a8]>{length = 145, capacity = 256, bytes = 0x3c48544d4c3e0a3c484541443e0a3c54 ... 3c2f48544d4c3e0a}}
+2015-05-14 08:49:46.396 Newport Park Explorer[11462:46268] Your key may be invalid for your bundle ID: com.ionicframework.myapp987110
+2015-05-14 08:49:58.494 Newport Park Explorer[11462:46268] type: undefined id: undefined
+2015-05-14 08:49:58.494 Newport Park Explorer[11462:46268] parks: 
+2015-05-14 08:49:58.494 Newport Park Explorer[11462:46268] null!
+2015-05-14 08:49:58.495 Newport Park Explorer[11462:46268] parkTop: null
+2015-05-14 08:49:58.495 Newport Park Explorer[11462:46268] cats logged
+2015-05-14 08:49:58.522 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:49:58.533 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:49:59.487 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:50:04.138 Newport Park Explorer[11462:46268] type: undefined id: undefined
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] parks: 
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] null!
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] parkTop: null
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] cats logged
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] type: undefined id: undefined
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] parks: 
+2015-05-14 08:50:04.139 Newport Park Explorer[11462:46268] null!
+2015-05-14 08:50:04.140 Newport Park Explorer[11462:46268] parkTop: null
+2015-05-14 08:50:04.140 Newport Park Explorer[11462:46268] cats logged
+2015-05-14 08:50:04.156 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:50:04.159 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:50:05.218 Newport Park Explorer[11462:46268] type: undefined id: undefined
+2015-05-14 08:50:05.219 Newport Park Explorer[11462:46268] parks: 
+2015-05-14 08:50:05.219 Newport Park Explorer[11462:46268] null!
+2015-05-14 08:50:05.219 Newport Park Explorer[11462:46268] parkTop: null
+2015-05-14 08:50:05.219 Newport Park Explorer[11462:46268] cats logged
+2015-05-14 08:50:05.232 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}
+2015-05-14 08:50:06.213 Newport Park Explorer[11462:46268] ERROR: {"code":5,"message":"no such column: img"}

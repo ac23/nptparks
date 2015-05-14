@@ -1,0 +1,21 @@
+<div ng-controller="MapCtrl" id="wrapper">
+<ion-view view-title="Newport, RI Parks And Open Spaces">
+  <ion-content class="padding">
+      <div id="map_canvas"></div>
+      
+        <div class="padding" id="details">
+        <div class="close">X</div>
+        <h2></h2>
+  <img src="img.jpg" class="placeMain" id="photo" />
+  <a href="#" class="button directions" ng-click="getDirections(,)">Get Directions</a>
+  <br/><a href="#" class="button directions" ng-click="viewMap(,)">View On Map</a><br/>
+  <p class="comments">
+      {{park.comments}}<br/>
+    </p>
+    <p class="categories">
+      {{park.categories}}<br/>
+    </p>
+    </div>
+  </ion-content>
+</ion-view>
+</div>

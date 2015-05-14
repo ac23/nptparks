@@ -1,0 +1,17 @@
+<div ng-controller="ViewDetailCtrl" id="wrapper">
+<ion-view view-title="{{park.name}}" cache-view="true">
+  <ion-content>
+  <div class="padding {{park.type}}">
+  <img src="img/{{park.img}}" class="placeMain" />
+  <a href="#" class="button directions" ng-click="getDirections({{park.lat}},{{park.lng}})">Get Directions</a>
+  <br/><a href="#" class="button directions" ng-click="viewMap({{park.lat}},{{park.lng}})">View On Map</a><br/>
+  <p>
+      {{park.comments}}<br/>
+    </p>
+    <p>
+      {{park.categories}}<br/>
+    </p>
+    </div>
+  </ion-content>
+</ion-view>
+</div>
